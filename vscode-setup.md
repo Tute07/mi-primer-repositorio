@@ -19,7 +19,7 @@ Personalizacion del Entorno:
     -Ctrl+P: Abre rápidamente un archivo por su nombre.
     -Ctrl+Shift+F: Realiza una búsqueda global en todos los archivos del proyecto.
     -Ctrl+Shift+O: Navega por el simbolismo actual del archivo.
-    -Alt+Z: Activa/desactiva el ajuste de línea.
+    -Alt+Z: Activa/Desactiva el ajuste de línea.
     -Ctrl+` (tilde): Abre o cierra el terminal integrado.
 
 ![Captura de pantalla de VS Code](assets/Captura_VSCode.png)
