@@ -22,4 +22,4 @@ Personalizacion del Entorno:
     -Alt+Z: Activa/desactiva el ajuste de línea.
     -Ctrl+` (tilde): Abre o cierra el terminal integrado.
 
-![Captura de pantalla de VS Code]("https://github.com/Tute07/mi-primer-repositorio/blob/main/assets/Captura_VSCode.png")
+![Captura de pantalla de VS Code](assets/Captura_VSCode.png)
